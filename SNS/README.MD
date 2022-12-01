@@ -2,9 +2,9 @@
 ---
 
 # Содержание
-1 [Диаграмма вариантов использования](usecase/README.md)  
-2 [Диаграммы активностей](activity/Readme.md)  
+1 [Диаграмма вариантов использования](usecase/README.MD)  
+2 [Диаграммы активностей](activity/README.MD)  
 3 [Диаграммы последовательностей](squence/README.MD)  
-4 [Диаграммы состояний](state/README.md)  
-5 [Диаграмма классов](class/README.md)  
-6 [Диаграмма компонентов и развертывания](deployment/README.md)
+4 [Диаграммы состояний](state/README.MD)  
+5 [Диаграмма классов](class/README.MD)  
+6 [Диаграмма компонентов и развертывания](deployment/README.MD)
